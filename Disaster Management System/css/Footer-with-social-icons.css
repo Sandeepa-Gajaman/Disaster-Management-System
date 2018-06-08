@@ -1,0 +1,98 @@
+#myFooter {
+	background-color: #282C34;
+	color:white;
+}
+
+#myFooter .footer-copyright{
+	background-color: #222222;
+	padding-top:0.2px;
+	padding-bottom:0.2px;
+	text-align: center;
+}
+
+#myFooter .footer-copyright p{
+	margin:10px;
+	font-size: 10px;
+	color: #ccc;
+}
+
+#myFooter ul{
+	list-style-type: none;
+    padding-left: 0;
+    line-height: 0.5;
+
+}
+
+#myFooter h5{
+	font-size: 15px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#myFooter a{
+	color:#d2d1d1;
+	text-decoration: none;
+}
+
+#myFooter a:hover, #myFooter a:focus{
+	text-decoration: none;
+	color:white;
+}
+
+#myFooter .myCols{
+	text-align: center;
+}
+
+#myFooter .social-networks{
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#myFooter .social-networks a{
+    font-size: 22px;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: #f9f9f9;
+    padding: 3px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover{
+	text-decoration: none;
+
+}
+
+#myFooter .facebook:hover{
+	color:#0077e2;
+}
+
+#myFooter .google:hover{
+	color:#ef1a1a;
+}
+
+#myFooter .twitter:hover{
+	color: #00aced;
+}
+
+#myFooter .Home:hover{
+	color: #0DDEFF;
+}
+
+#myFooter .About:hover{
+	color: #C57F0E;
+}
+
+#myFooter .Contact:hover{
+	color: #F3FE00;
+}
+
+#myFooter .Sign:hover{
+	color: #FF4F00;
+}
+@media screen and (max-width: 767px){
+	#myFooter {
+		text-align: center;
+	}
+}

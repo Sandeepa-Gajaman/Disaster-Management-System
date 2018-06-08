@@ -1,0 +1,43 @@
+#myNavbar .navbar-brand:hover{
+	color:#00F102;
+}
+
+#myNavbar .Home:hover{
+	color: #0DDEFF;
+}
+
+#myNavbar .About:hover{
+	color: #C57F0E;
+}
+
+#myNavbar .Contact1:hover{
+	color: #EA4335;
+}
+
+#myNavbar .Contact2:hover{
+	color: #094AB1;
+}
+
+#myNavbar .Contact3:hover{
+	color: #EA4335;
+}
+
+#myNavbar .Contact4:hover{
+	color: #094AB1;
+}
+
+#myNavbar .Contact5:hover{
+	color: #34A853;
+}
+
+#myNavbar .Report:hover{
+	color: #FE4042;
+}
+
+#myNavbar .Sign:hover{
+	color: #1E90FF;
+}
+
+#myNavbar .Log:hover{
+	color: #57AD68;
+}
