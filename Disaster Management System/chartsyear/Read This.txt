@@ -1,0 +1,2 @@
+Folder must be included(not files taken out)
+Should give path to IncidentCharts2017.php to view charts
